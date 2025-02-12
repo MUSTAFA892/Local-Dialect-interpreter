@@ -1,0 +1,13 @@
+google-cloud
+streamlit
+python-dotenv
+google-auth
+google-auth-oauthlib
+langchain
+fastapi 
+uvicorn
+langchain_community
+google-genai
+Flask
+flask_cors
+googletrans
